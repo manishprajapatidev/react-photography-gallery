@@ -1,3 +1,2 @@
-# react-photography-gallery
-Created with CodeSandbox
+# react-photography-gallery 
 [Demo](https://gzl9n.csb.app/)
